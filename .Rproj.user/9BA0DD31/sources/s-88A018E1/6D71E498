@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583784823607.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1076513568",
+    "id" : "6D71E498",
+    "lastKnownWriteTime" : 1583893386,
+    "last_content_update" : 1583893386273,
+    "path" : "~/Documentos/proyectos/yaroRacademic2.01/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "7,37",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
